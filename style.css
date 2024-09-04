@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(252, 223, 186);  
+    height: 60px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+p{
+    text-align: justify;
+}
+blockquote{
+    text-align: justify;
+}
+
+h3{
+    text-align: center;
+    background-color: rgb(252, 223, 186);
+    height: 30px;
+    padding-top: 15px;
+    border-radius: 7px;
+}
+
+figcaption{
+    text-align: center;
+    background-color: rgb(252, 223, 186);
+    height: 25px;
+    padding-top: 5px;
+    box-shadow: 1px 11px 10px 10px #3d3f4238;;
+}
+figure{
+    background-color: rgb(255, 244, 230);
+    border-radius: 10px;
+    
+}
+
+footer{
+    text-align: center;
+    background-color:  rgb(252, 223, 186);
+}
